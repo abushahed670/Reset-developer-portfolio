@@ -25,13 +25,14 @@
     background-image: url(../images/header_bg.png), url(../images/developer.png);
     /* background-size: ; */
     background-repeat: no-repeat;
+    /* background-size: 300px 100px; */
     background-position: bottom right left;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
